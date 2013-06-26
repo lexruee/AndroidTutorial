@@ -8,7 +8,7 @@ This tutorial uses a ListView, a ArrayAdapter and a Dialog in order to manipulat
 
 Links:
 
-	- [Dialogs](http://developer.android.com/guide/topics/ui/dialogs.html)
-	- [ArrayAdapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
-	- [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html)
-	- [Menu](http://developer.android.com/guide/topics/ui/menus.html)
+- [Dialogs](http://developer.android.com/guide/topics/ui/dialogs.html)
+- [ArrayAdapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
+- [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html)
+- [Menu](http://developer.android.com/guide/topics/ui/menus.html)
