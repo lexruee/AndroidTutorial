@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
 	}
 	
 	/**
-	 * Save a movie in the adapter
+	 * Saves a movie in the array adapter
 	 * @param view
 	 */
 	public void saveMovie(View view){
@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
 	}
 	
 	/**
-	 * Show the selected movie in a toast view.
+	 * Shows the selected movie in a toast view.
 	 * @param pos
 	 */
 	private void showMovie(int pos) {
@@ -64,7 +64,7 @@ public class MainActivity extends Activity {
 	}
 
 	/**
-	 * Remove the selected movie.
+	 * Removes the selected movie.
 	 * @param pos
 	 */
 	private void removeMovie(int pos) {
@@ -74,7 +74,15 @@ public class MainActivity extends Activity {
 	}
 	
 	/**
-	 * Create a context menu for the movie list view.
+	 * Edits the selected movie.
+	 * @param pos
+	 */
+	private void editMovie(int pos) {
+		new EditMovieDialog(this.dataSource,pos).show(this.getFragmentManager(), "edit_movies");
+	}
+	
+	/**
+	 * Creates a context menu for the movie list view.
 	 */
 	@Override
 	public void onCreateContextMenu(ContextMenu menu, View view, ContextMenuInfo menuInfo){
@@ -84,7 +92,7 @@ public class MainActivity extends Activity {
 	}
 	
 	/**
-	 * Handle the context menu actions.
+	 * Handles the context menu actions.
 	 */
 	@Override
 	public boolean onContextItemSelected(MenuItem item) {
@@ -97,10 +105,12 @@ public class MainActivity extends Activity {
 		case R.id.remove_movie:
 			this.removeMovie(info.position);
 			return true;
+		case R.id.edit_movie:
+			this.editMovie(info.position);
+			return true;
 		default:
 			return super.onContextItemSelected(item);
 		}
 	}
-
 
 }

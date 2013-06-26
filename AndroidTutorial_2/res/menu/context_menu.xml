@@ -4,5 +4,7 @@
         android:title="@string/remove_movie" />
     <item android:id="@+id/show_movie"
         android:title="@string/show_movie" />
+    <item android:id="@+id/edit_movie"
+        android:title="@string/edit_movie" />
 
 </menu>
