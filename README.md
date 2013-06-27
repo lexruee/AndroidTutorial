@@ -23,10 +23,10 @@ See [AndroidTutorial3](https://github.com/lexruee/AndroidTutorial/tree/master/An
 
 ###Screenshots
 
-![alt tag](https://github.com/lexruee/AndroidTutorial/blob/master/AndroidTutorial_3/screenshots/1.png)
+![alt tag](https://github.com/lexruee/AndroidTutorial/tree/master/AndroidTutorial_3/screenshots/1.png)
 
 
-![alt tag](https://github.com/lexruee/AndroidTutorial/blob/master/AndroidTutorial_3/screenshots/2.png)
+![alt tag](https://github.com/lexruee/AndroidTutorial/tree/master/AndroidTutorial_3/screenshots/2.png)
 
 
 Other links:
