@@ -23,9 +23,6 @@ See [AndroidTutorial3](https://github.com/lexruee/AndroidTutorial/tree/master/An
 
 ###Screenshots
 
-<img src="https://raw.github.com/lexruee/AndroidTutorial/master/AndroidTutorial_3/screenshots/1.png" alt="Drawing" width="200px"/>
-
-
 <img src="https://raw.github.com/lexruee/AndroidTutorial/master/AndroidTutorial_3/screenshots/2.png" alt="Drawing" width="200px"/>
 
 Other links:
