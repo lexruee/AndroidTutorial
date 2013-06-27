@@ -21,6 +21,13 @@ It uses a http client to access the json web service api to resolve placenames b
 
 See [AndroidTutorial3](https://github.com/lexruee/AndroidTutorial/tree/master/AndroidTutorial_3).
 
+###Screenshots
+
+![alt tag](https://github.com/lexruee/AndroidTutorial/tree/master/AndroidTutorial_3/screenshots/1)
+
+
+![alt tag](https://github.com/lexruee/AndroidTutorial/tree/master/AndroidTutorial_3/screenshots/2)
+
 
 Other links:
 
