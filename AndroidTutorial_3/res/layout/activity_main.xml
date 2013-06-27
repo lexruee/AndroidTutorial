@@ -42,6 +42,12 @@
             android:layout_weight="1"
             android:hint="@string/enter_postal_hint" />
     </LinearLayout>
+    
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/result_text" />
 
     <ListView
         android:id="@+id/result_list"

@@ -7,10 +7,14 @@ import java.util.List;
 import java.util.Random;
 
 public class Model {
+	
+	public static final String SERVICE_URI = "http://api.geonames.org/postalCodeLookupJSON";
+	public static final String USER = "lexruee";
+	
 	private List<Country> countries = new ArrayList<Country>();
 	private Random rand = new Random();
 	private Country current;
-
+	
 	public Model() {
 		this.intializeCountries();
 	}
@@ -28,7 +32,6 @@ public class Model {
 				return c1.name.compareTo(c2.name);
 			}
 		});
-
 	}
 
 	public List<String> getCountries() {
@@ -53,7 +56,6 @@ public class Model {
 	}
 
 	public String getCurrentCountryCode() {
-		// TODO Auto-generated method stub
 		return this.current.code;
 	}
 }
