@@ -31,6 +31,12 @@ Other links:
 - [Connecting to the Network](http://developer.android.com/training/basics/network-ops/connecting.html)
 - [AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html)
 
-##Tutorial 4: Customized list row view in ListView
+##Tutorial 4: A simple customized list row view
+In this tutorial a ListView is used with a customized list row to show the daily meals of a canteen. 
+
+<img src="https://raw.github.com/lexruee/AndroidTutorial/master/AndroidTutorial_4/screenshots/1.png" alt="Drawing" width="200px"/>
+
+
+##Tutorial 5: Extended customized list row view
 
 TODO

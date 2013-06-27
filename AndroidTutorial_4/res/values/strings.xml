@@ -4,5 +4,7 @@
     <string name="app_name">AndroidTutorial_4</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="menu_title">Menu Title</string>
+ 	<string name="menu_content">Bami Goreng</string>
+ 	<string name="menuplan_title">Tagesmenüplan\nMensa Gesellschaftsstrasse\nDonnerstag, 27. Juni 2013</string>
 </resources>
