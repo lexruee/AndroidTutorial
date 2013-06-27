@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTutorial_3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_postal_hint">Postal code</string>
+    <string name="lookup_button">Lookup!</string>
+    <string name="info_text">This service returns a list of placenames for a given postalcode.</string>
+    <string name="country_button">Choose a country</string>
+    <string name="current_country">___</string>
+    <string name="country_title_dialog">Pick a country</string>
+
+</resources>

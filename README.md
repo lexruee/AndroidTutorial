@@ -12,3 +12,7 @@ Links:
 - [ArrayAdapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
 - [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html)
 - [Menu](http://developer.android.com/guide/topics/ui/menus.html)
+
+##Tutorial 3: Simple JSON/REST example
+This tutorial uses the REST/JSON web service [geonames.org](http://www.geonames.org/).
+It uses a http client to access the json web service api to resolve placenames based on postal codes.
